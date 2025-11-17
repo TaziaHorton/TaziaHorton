@@ -35,3 +35,4 @@ Always excited to discuss automation, space technology, and the future of extrat
 
 ---
 *"Automating the final frontier, one ladder rung at a time."* ⚡
+_This profie was generated for use in a [CTF](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity))_
