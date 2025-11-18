@@ -30,6 +30,10 @@ I'm an Operational Automation Engineer at Space Fe-Ores, where I specialize in d
 - **Lunar Mining Automation**: Developed a fully automated control system for lunar regolith extraction.
 - **Backup Systems**: Implemented automated backup protocols for critical space mining operations.
 
+## Questions
+
+- If anyone knows a good place to put backups in Linux let me know, I just use root directory.
+
 ## 📫 Get In Touch
 Always excited to discuss automation, space technology, and the future of extraterrestrial operations!
 
